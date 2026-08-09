@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "year": "2026",
+    "month": "Mar",
+    "state": "GOA",
+    "district": "north_goa",
+    "fps_id": "158500100023",
+    "fps_name": "DAYANAND KENKRE-33 FPS"
+  },
+  "summary_cards": {
+    "total_etransaction": 0,
+    "aadhaar_authenticated": 0,
+    "other_mode_authenticated": 0,
+    "non_authenticated": 0
+  },
+  "tables": {
+    "number_of_transactions": {
+      "headers": [],
+      "rows": [
+        [
+          "FPS LIST",
+          "240"
+        ]
+      ]
+    },
+    "number_of_transacted_ration_cards": {
+      "headers": [
+        "NFSA Ration Card Type",
+        "Regular",
+        "Intra State",
+        "Inter State",
+        "Total"
+      ],
+      "rows": [
+        [
+          "Priority Household(PHH)",
+          "172",
+          "4",
+          "15",
+          "191"
+        ],
+        [
+          "Antyodaya Anna Yojana (AAY)",
+          "8",
+          "0",
+          "0",
+          "8"
+        ]
+      ]
+    },
+    "distributed_quantity_kg": {
+      "headers": [
+        "NFSA Ration Card Type",
+        "Regular",
+        "Intra State",
+        "Inter State",
+        "Total"
+      ],
+      "rows": [
+        [
+          "Priority Household (PHH)",
+          "172",
+          "4",
+          "15",
+          "191"
+        ],
+        [
+          "Antyodaya Anna Yojana (AAY)",
+          "8",
+          "0",
+          "0",
+          "8"
+        ]
+      ]
+    }
+  }
+}

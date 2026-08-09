@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "year": "2026",
+    "month": "Mar",
+    "state": "GOA",
+    "district": "NORTH GOA",
+    "fps_id": "+A",
+    "fps_name": "unknown"
+  },
+  "summary_cards": {},
+  "tables": {
+    "transactions": [],
+    "ration_cards": [],
+    "distributed_quantity": [
+      {
+        "row_label": "Priority Household (PHH)",
+        "regular": "18,25,28,419",
+        "intra_state": "71,70,54,094",
+        "inter_state": "18,20,14,722",
+        "total": "71,02,18,486"
+      },
+      {
+        "row_label": "Antyodaya Anna Yojana (AAY)",
+        "regular": "2,29,19,993",
+        "intra_state": "7,75,03,439",
+        "inter_state": "2,28,59,460",
+        "total": "7,66,92,388"
+      },
+      {
+        "row_label": "Total",
+        "regular": "20,54,48,412",
+        "intra_state": "79,45,57,533",
+        "inter_state": "20,48,74,182",
+        "total": "78,69,10,874"
+      }
+    ]
+  }
+}
