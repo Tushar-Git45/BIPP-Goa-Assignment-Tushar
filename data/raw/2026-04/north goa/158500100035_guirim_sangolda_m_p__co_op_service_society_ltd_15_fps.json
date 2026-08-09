@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "year": "2026",
+    "month": "Apr",
+    "state": "GOA",
+    "district": "north_goa",
+    "fps_id": "158500100035",
+    "fps_name": "GUIRIM SANGOLDA M.P. CO-OP SERVICE SOCIETY LTD-15 FPS"
+  },
+  "summary_cards": {
+    "total_etransaction": 0,
+    "aadhaar_authenticated": 0,
+    "other_mode_authenticated": 0,
+    "non_authenticated": 0
+  },
+  "tables": {
+    "number_of_transactions": {
+      "headers": [],
+      "rows": [
+        [
+          "FPS LIST",
+          "240"
+        ]
+      ]
+    },
+    "number_of_transacted_ration_cards": {
+      "headers": [
+        "NFSA Ration Card Type",
+        "Regular",
+        "Intra State",
+        "Inter State",
+        "Total"
+      ],
+      "rows": [
+        [
+          "Priority Household(PHH)",
+          "231",
+          "4",
+          "0",
+          "235"
+        ],
+        [
+          "Antyodaya Anna Yojana (AAY)",
+          "17",
+          "0",
+          "1",
+          "18"
+        ]
+      ]
+    },
+    "distributed_quantity_kg": {
+      "headers": [
+        "NFSA Ration Card Type",
+        "Regular",
+        "Intra State",
+        "Inter State",
+        "Total"
+      ],
+      "rows": [
+        [
+          "Priority Household (PHH)",
+          "231",
+          "4",
+          "0",
+          "235"
+        ],
+        [
+          "Antyodaya Anna Yojana (AAY)",
+          "17",
+          "0",
+          "1",
+          "18"
+        ]
+      ]
+    }
+  }
+}
